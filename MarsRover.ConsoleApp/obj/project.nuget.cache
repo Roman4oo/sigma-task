@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCQVFtm6sTZMEJgHvyufenaiM9FP/38+vP2babW6D5eGQjV3frIoIjLqYt1rU0LI/NIAkIrDWySQHkQpgRS1Pw==",
+  "success": true,
+  "projectFilePath": "D:\\sigma test task\\mars-rover\\MarsRover\\MarsRover.ConsoleApp\\MarsRover.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

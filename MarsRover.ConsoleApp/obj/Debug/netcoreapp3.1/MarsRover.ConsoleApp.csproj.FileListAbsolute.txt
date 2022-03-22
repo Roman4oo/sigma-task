@@ -1,0 +1,14 @@
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.exe
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.deps.json
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.runtimeconfig.json
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.runtimeconfig.dev.json
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.dll
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.pdb
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.csproj.AssemblyReference.cache
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.AssemblyInfoInputs.cache
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.AssemblyInfo.cs
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.dll
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.pdb
+D:\sigma test task\mars-rover\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.genruntimeconfig.cache
